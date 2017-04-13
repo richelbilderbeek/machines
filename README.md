@@ -15,6 +15,6 @@ licensed under the CC-AT-SA license.
 
 ## Unfinished
 
- * [Arduino TrialShields](MachineArduinoTrialShields.htm): Arduino shields with a puzzle that needs to be solved programmatically
- * [JamesBrown](MachineJamesBrown.htm)
- * [Cmos4073BreakoutBoard](MachineCmos4073BreakoutBoard.htm)
+ * [Arduino TrialShields](https://github.com/richelbilderbeek/ArduinoTrialShields): Arduino shields with a puzzle that needs to be solved programmatically
+ * [JamesBrown](https://github.com/richelbilderbeek/JamesBrown)
+ * [Cmos4073BreakoutBoard](https://github.com/richelbilderbeek/Cmos4073BreakoutBoard)
