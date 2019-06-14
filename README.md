@@ -1,4 +1,4 @@
-# [Machines](Machines.htm)
+# machines
 
 On this page you can find the machines I have made. All of these are
 licensed under the CC-AT-SA license.
