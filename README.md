@@ -5,15 +5,59 @@ licensed under the CC-AT-SA license.
 
 ## Finished
 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/ApproxyClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ApproxyClock) [ApproxyClock](https://github.com/richelbilderbeek/ApproxyClock): clock that you can approximately read the time of
- * [![Build Status](https://travis-ci.org/richelbilderbeek/GeenEenTwee.svg?branch=master)](https://travis-ci.org/richelbilderbeek/GeenEenTwee) [GeenEenTwee](https://github.com/richelbilderbeek/GeenEenTwee)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/IsClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/IsClock) [IsClock](https://github.com/richelbilderbeek/IsClock)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/MinimalPiClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/MinimalPiClock) [MinimalPiClock](https://github.com/richelbilderbeek/MinimalPiClock)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/MoreOrLessClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/MoreOrLessClock) [MoreOrLessClock](https://github.com/richelbilderbeek/MoreOrLessClock)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/MysteryMachine.svg?branch=master)](https://travis-ci.org/richelbilderbeek/MysteryMachine) [MysteryMachine](https://github.com/richelbilderbeek/MysteryMachine)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/MysteryMachine2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/MysteryMachine2) [MysteryMachine2](https://github.com/richelbilderbeek/MysteryMachine2)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/NeoPixelPiClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/NeoPixelPiClock) [NeoPixelPiClock](https://github.com/richelbilderbeek/NeoPixelPiClock)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/RgbLedPiClock.svg?branch=master)](https://travis-ci.org/richelbilderbeek/RgbLedPiClock) [RgbLedPiClock](https://github.com/richelbilderbeek/RgbLedPiClock)
+### [ApproxyClock](https://github.com/richelbilderbeek/ApproxyClock)
+
+A clock that you can approximately read the time of.
+
+![](pics/ApproxyClock5.jpg)
+
+### [GeenEenTwee](https://github.com/richelbilderbeek/GeenEenTwee)
+
+A machine that prevent pocket dialling.
+
+![](pics/GeenEenTwee.jpg)
+
+### [IsClock](https://github.com/richelbilderbeek/IsClock)
+
+A clock that tells what time it is in a mathematical sense.
+
+![](pics/IsClock.jpg)
+
+### [MinimalPiClock](https://github.com/richelbilderbeek/MinimalPiClock)
+
+A clock that beeps at 3:14 pm.
+
+![](pics/MinimalPiClock.jpg)
+
+### [MoreOrLessClock](https://github.com/richelbilderbeek/MoreOrLessClock)
+
+A clock that tells you more or less the correct time.
+
+![](pics/MoreOrLessClockPrototypeLeft.jpg)
+
+### [MysteryMachine](https://github.com/richelbilderbeek/MysteryMachine)
+
+A mystery machine.
+
+![](pics/MysteryMachineTop_1_0.jpg)
+
+### [MysteryMachine2](https://github.com/richelbilderbeek/MysteryMachine2)
+
+Another mystery machine.
+
+![](pics/20170730_7.jpg)
+
+### [NeoPixelPiClock](https://github.com/richelbilderbeek/NeoPixelPiClock)
+
+A clock that beeps at 3:14 pm and shows the time in binary.
+
+![](pics/PiClocks.jpg)
+
+### [RgbLedPiClock](https://github.com/richelbilderbeek/RgbLedPiClock)
+
+A clock that beeps at 3:14 pm and shows the time in binary.
+
+![](pics/PiClocks.jpg)
 
 ## Unfinished
 
