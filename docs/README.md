@@ -11,13 +11,13 @@ A clock that you can approximately read the time of.
 
 ![](pics/ApproxyClock5.jpg)
 
-### [GeenEenTwee](https://richelbilderbeek.github.io/geeneentwee/)
+### [GeenEenTwee](https://richelbilderbeek.github.io/GeenEenTwee/)
 
 A machine that prevent pocket dialling.
 
 ![](pics/GeenEenTwee.jpg)
 
-### [IsClock](https://richelbilderbeek.github.io/isclock/)
+### [IsClock](https://richelbilderbeek.github.io/IsClock/)
 
 A clock that tells what time it is in a mathematical sense.
 
@@ -29,19 +29,19 @@ A clock that beeps at 3:14 pm.
 
 ![](pics/MinimalPiClock.jpg)
 
-### [MoreOrLessClock](https://richelbilderbeek.github.io/moreorlessclock/)
+### [MoreOrLessClock](https://richelbilderbeek.github.io/MoreOrLessClock/)
 
 A clock that tells you more or less the correct time.
 
 ![](pics/MoreOrLessClockPrototypeLeft.jpg)
 
-### [MysteryMachine](https://richelbilderbeek.github.io/mysterymachine/)
+### [MysteryMachine](https://richelbilderbeek.github.io/MysteryMachine/)
 
 A mystery machine.
 
 ![](pics/MysteryMachineTop_1_0.jpg)
 
-### [MysteryMachine2](https://richelbilderbeek.github.io/mysterymachine2/)
+### [MysteryMachine2](https://richelbilderbeek.github.io/MysteryMachine2/)
 
 Another mystery machine.
 
@@ -53,7 +53,7 @@ A clock that beeps at 3:14 pm and shows the time in binary.
 
 ![](pics/PiClocks.jpg)
 
-### [RgbLedPiClock](https://richelbilderbeek.github.io/rgbledpiclock/)
+### [RgbLedPiClock](https://richelbilderbeek.github.io/RgbLedPiClock/)
 
 A clock that beeps at 3:14 pm and shows the time in binary.
 
@@ -61,6 +61,6 @@ A clock that beeps at 3:14 pm and shows the time in binary.
 
 ## Unfinished
 
- * [Arduino TrialShields](https://richelbilderbeek.github.io/arduinotrialshields/): Arduino shields with a puzzle that needs to be solved programmatically
- * [JamesBrown](https://richelbilderbeek.github.io/jamesbrown/)
- * [Cmos4073BreakoutBoard](https://richelbilderbeek.github.io/cmos4073breakoutboard/)
+ * [Arduino TrialShields](https://richelbilderbeek.github.io/ArduinoTrialShields/): Arduino shields with a puzzle that needs to be solved programmatically
+ * [JamesBrown](https://richelbilderbeek.github.io/JamesBrown/)
+ * [Cmos4073BreakoutBoard](https://richelbilderbeek.github.io/Cmos4073BreakoutBoard/)
