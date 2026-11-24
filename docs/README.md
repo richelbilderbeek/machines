@@ -5,55 +5,55 @@ licensed under the CC-AT-SA license.
 
 ## Finished
 
-### [ApproxyClock](https://github.com/richelbilderbeek/ApproxyClock)
+### [ApproxyClock](https://richelbilderbeek.github.io/approxyclock/)
 
 A clock that you can approximately read the time of.
 
 ![](pics/ApproxyClock5.jpg)
 
-### [GeenEenTwee](https://github.com/richelbilderbeek/GeenEenTwee)
+### [GeenEenTwee](https://richelbilderbeek.github.io/geeneentwee/)
 
 A machine that prevent pocket dialling.
 
 ![](pics/GeenEenTwee.jpg)
 
-### [IsClock](https://github.com/richelbilderbeek/IsClock)
+### [IsClock](https://richelbilderbeek.github.io/isclock/)
 
 A clock that tells what time it is in a mathematical sense.
 
 ![](pics/IsClock.jpg)
 
-### [MinimalPiClock](https://github.com/richelbilderbeek/MinimalPiClock)
+### [MinimalPiClock](https://richelbilderbeek.github.io/minimalpiclock/)
 
 A clock that beeps at 3:14 pm.
 
 ![](pics/MinimalPiClock.jpg)
 
-### [MoreOrLessClock](https://github.com/richelbilderbeek/MoreOrLessClock)
+### [MoreOrLessClock](https://richelbilderbeek.github.io/moreorlessclock/)
 
 A clock that tells you more or less the correct time.
 
 ![](pics/MoreOrLessClockPrototypeLeft.jpg)
 
-### [MysteryMachine](https://github.com/richelbilderbeek/MysteryMachine)
+### [MysteryMachine](https://richelbilderbeek.github.io/mysterymachine/)
 
 A mystery machine.
 
 ![](pics/MysteryMachineTop_1_0.jpg)
 
-### [MysteryMachine2](https://github.com/richelbilderbeek/MysteryMachine2)
+### [MysteryMachine2](https://richelbilderbeek.github.io/mysterymachine2/)
 
 Another mystery machine.
 
 ![](pics/20170730_7.jpg)
 
-### [NeoPixelPiClock](https://github.com/richelbilderbeek/NeoPixelPiClock)
+### [NeoPixelPiClock](https://richelbilderbeek.github.io/neopixelpiclock/)
 
 A clock that beeps at 3:14 pm and shows the time in binary.
 
 ![](pics/PiClocks.jpg)
 
-### [RgbLedPiClock](https://github.com/richelbilderbeek/RgbLedPiClock)
+### [RgbLedPiClock](https://richelbilderbeek.github.io/rgbledpiclock/)
 
 A clock that beeps at 3:14 pm and shows the time in binary.
 
@@ -61,6 +61,6 @@ A clock that beeps at 3:14 pm and shows the time in binary.
 
 ## Unfinished
 
- * [Arduino TrialShields](https://github.com/richelbilderbeek/ArduinoTrialShields): Arduino shields with a puzzle that needs to be solved programmatically
- * [JamesBrown](https://github.com/richelbilderbeek/JamesBrown)
- * [Cmos4073BreakoutBoard](https://github.com/richelbilderbeek/Cmos4073BreakoutBoard)
+ * [Arduino TrialShields](https://richelbilderbeek.github.io/arduinotrialshields/): Arduino shields with a puzzle that needs to be solved programmatically
+ * [JamesBrown](https://richelbilderbeek.github.io/jamesbrown/)
+ * [Cmos4073BreakoutBoard](https://richelbilderbeek.github.io/cmos4073breakoutboard/)
