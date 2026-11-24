@@ -23,7 +23,7 @@ A clock that tells what time it is in a mathematical sense.
 
 ![](pics/IsClock.jpg)
 
-### [MinimalPiClock](https://richelbilderbeek.github.io/minimalpiclock/)
+### [MinimalPiClock](https://richelbilderbeek.github.io/minimal_pi_clock/)
 
 A clock that beeps at 3:14 pm.
 
@@ -47,7 +47,7 @@ Another mystery machine.
 
 ![](pics/20170730_7.jpg)
 
-### [NeoPixelPiClock](https://richelbilderbeek.github.io/neopixelpiclock/)
+### [NeoPixelPiClock](https://richelbilderbeek.github.io/neopixel_pi_clock/)
 
 A clock that beeps at 3:14 pm and shows the time in binary.
 
