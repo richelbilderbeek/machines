@@ -1,19 +1,24 @@
+name: Check links
+
 on:
   push:
+    paths:
+      - .github/workflows/check_links.yaml
+      - mlc_config.json
+      - '**.md'
   pull_request:
-  schedule:
-  - cron: "0 0 12 * *"
-
-name: check-links
+    paths:
+      - .github/workflows/check_links.yaml
+      - mlc_config.json
+      - '**.md'
 
 jobs:
-  check-links:
+  check_links:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
 
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      - uses: tcort/github-action-markdown-link-check@v1
         with:
-          config-file: 'mlc_config.json'
+          config-file: mlc_config.json
+          use-verbose-mode: yes
