@@ -3,12 +3,12 @@ name: Check links
 on:
   push:
     paths:
-      - .github/workflows/check_links.yaml
+      - .github/workflows/check_markdown_links.yaml
       - mlc_config.json
       - '**.md'
   pull_request:
     paths:
-      - .github/workflows/check_links.yaml
+      - .github/workflows/check_markdown_links.yaml
       - mlc_config.json
       - '**.md'
 
